@@ -465,14 +465,46 @@
     top:1px;
   }
 
+  /*banner*/
+  .banner {
+    /*height: 50px;*/
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+    margin: auto;
+    background-color: #836de0;
+    background-image: linear-gradient(45deg,#8937bd,#4b1b98);
+  }
+
+  .free-trials-announce {
+    font-family: Trebuchet MS;
+    /*font-size: 10px;*/
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    padding-top: auto;
+    padding-bottom: auto;
+    display:inline-block;
+  }
+
+
+  .self-container{
+    margin:auto;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+  }
+
   /*layout grid*/
   .container {
-    height: 400px;
+    /*height: 400px;*/
     margin: auto;
     display: grid;
     grid-template-rows: 1fr;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-column-gap: 100px;
+    grid-column-gap: 50px;
   }
   .cell{
     box-shadow: 5px 5px 14px -1px #a3a3a3;
