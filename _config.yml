@@ -8,10 +8,9 @@ url: "https://turtlecodenp.github.io" # the base hostname & protocol for your si
 
 author:
   fullname: TurtleCodeNP
-  github: turtlecodenp
   email: turtlecodenp@email.com
   facebook: TurtleCode-100327945121416
-
+  instagram: turtlecodenp
 
 # Syntax highlighting
 highlightstyle: 'agate'
