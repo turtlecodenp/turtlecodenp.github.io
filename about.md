@@ -10,9 +10,11 @@ title: About Us
 
 <h2 class="go-home">What Do We Do</h2>
 <p class="go-home">
+  We are bunch of young minds who are aware of global happenings in the field of programming and how it has been efficiently been channelized to kids all around the world. Lack of awareness on programming led us to take us an initiative for making available a platform for students and kids so that they can too learn about programming and its wonders. 
+  <h3>"We Aspire to Inspire Young Minds"</h3>
 </p>
 
-<h2 class="go-home">Our Team</h2>
+<!-- <h2 class="go-home">Our Team</h2> -->
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?usp=sf_link" target="_blank" class="request-button">REQUEST A CALLBACK</a>
 
