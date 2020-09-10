@@ -7,8 +7,8 @@ sitemap:
 
 <div class="banner">
 	<div class="free-trials-announce">
-			Parents, sign up now to get FREE access to introductory sessions for the coding course (30 seats only) 
-			<a href="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?usp=sf_link" target="_blank" style="color:#ffffff;font-size: 20px">CLICK HERE</a>
+			Parents, sign up now to get discounted access to our various coding courses. 
+			<a href="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?usp=sf_link" target="_blank" style="color:#ffffff;font-size: 20px">REGISTER HERE</a>
 	</div>
 </div>
 
