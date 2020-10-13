@@ -5,19 +5,42 @@ sitemap:
   priority: 0.9
 ---
 
-<div class="banner">
-	<div class="free-trials-announce">
-			Parents, sign up now to get discounted access to our various coding courses. 
-			<a href="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?usp=sf_link" target="_blank" style="color:#ffffff;font-size: 20px">REGISTER HERE</a>
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 col-sm-12 col-xs-12 alert alert-primary" role="alert">
+			<strong>
+				<h3 class="alert-heading text-center">---Dashain Web Development Package---</h3>
+			</strong>
+			<h4> Course Price <b>NPR. 4500</b> </h4>
+			<p> We are very excited to announce Special Web Development Package for students that they can cover this holiday season of Dashain & Tihar.</p>
+			<a href="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?usp=sf_link" target="_blank"><button type="button" class="btn btn-outline-primary">REGISTER NOW</button></a>
+			<a href="{{ '/assets/docs/dashain_web_dev.pdf' | prepend: site.baseurl }}" class="alert-link"><button type="button" class="btn btn-outline-primary">CHECK OUT CURRICULUM</button></a>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12 col-sm-12 col-xs-12 alert alert-success text-center" role="alert">
+			<p>
+				Parents, sign up now to get discounted access to our various coding courses. 
+					<a href="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?usp=sf_link" target="_blank" style="color:#000000;font-size: 20px"><b>REGISTER HERE</b></a>
+			</p>
+		</div>
+	</div>
+</div>
+<!-- 		<div class="banner">
+			<div class="free-trials-announce">
+					Parents, sign up now to get discounted access to our various coding courses. 
+					<a href="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?usp=sf_link" target="_blank" style="color:#ffffff;font-size: 20px">REGISTER HERE</a>
+			</div>
+		</div> -->
+
+<div class="container">
+	<div class="row">
+		<img src="{{ '/assets/img/coverpic_mod.png' | prepend: site.baseurl }}" id="logo-name">
 	</div>
 </div>
 
 
-
-<img src="{{ '/assets/img/coverpic_mod.png' | prepend: site.baseurl }}" id="logo-name">
-<br>
-
-
+<!-- coding important -->
 <div class="container">
 	<div class="row">
 		<div class="col-md-12 col-sm-12 col-xs-12 text-center">
@@ -87,6 +110,61 @@ sitemap:
 <br>
 
 
+<!-- deliverables -->
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 col-sm-12 col-xs-12 text-center">
+			<h1>What TurtleCode is Delivering?</h1>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="card-deck">
+		<div class="card">
+			<div class="row no-gutters">
+				<div class="col-md-4 mb-3">
+					<img src="{{ '/assets/img/pair_programming.png' | prepend: site.baseurl }}" class="card-img-top" alt="...">
+				</div>
+				<div class="col-md-8">
+					<div class="card-body">
+		  				<h3 class="card-title"><b>Pair Programming</b></h3>
+		  				<p class="card-text">Enables depth learning with a single teacher and only two students classes</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="card">
+			<div class="row no-gutters">
+				<div class="col-md-4 mb-3">
+					<img src="{{ '/assets/img/certificate.png' | prepend: site.baseurl }}" class="card-img-top" alt="...">	  			
+				</div>
+				<div class="col-md-8">
+					<div class="card-body">
+		  				<h3 class="card-title"><b>Course Certificate</b></h3>
+		  				<p class="card-text">Course Completion Certificate issued to flaunt in your career profile</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="card">
+			<div class="row no-gutters">
+				<div class="col-md-4 mb-3">
+					<img src="{{ '/assets/img/social_media.jpg' | prepend: site.baseurl }}" class="card-img-top" alt="...">	  			
+				</div>
+				<div class="col-md-8">
+					<div class="card-body">
+		  				<h3 class="card-title"><b>Social Network</b></h3>
+		  				<p class="card-text">Social Network of Students to explore new and trending projects</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<!-- course information -->
 <div class="container">
 	<div class="row">
 		<div class="col-md-12 col-sm-12 col-xs-12 text-center">
@@ -112,7 +190,7 @@ sitemap:
 				<h4 class="card-title"><strong>Class 6-8</strong></h4>
 				<!-- Text -->
 				<p class="card-text">Concept Building / Game Designing / Web Development
-				<br> <a href="{{ '/courses#class68' | prepend: site.baseurl }}">Curriculum</a></p>
+				<br> <a href="{{ '/courses#class68' | prepend: site.baseurl }}"><h3>Curriculum</h3></a></p>
 				</div>
 			</div>			
 		</div>
@@ -131,7 +209,7 @@ sitemap:
 				<h4 class="card-title"><strong>Class 9-10</strong></h4>
 				<!-- Text -->
 				<p class="card-text">CS Concepts / Advanced Web Development / Python Programming
-				<br>  <a href="{{ '/courses#class910' | prepend: site.baseurl }}">Curriculum</a></p>
+				<br>  <a href="{{ '/courses#class910' | prepend: site.baseurl }}"><h3>Curriculum</h3></a></p>
 				</div>
 			</div>			
 		</div>
@@ -150,12 +228,42 @@ sitemap:
 				<h4 class="card-title"><strong>Class 11-12</strong></h4>
 				<!-- Text -->
 				<p class="card-text">Advanced Web Development / Computer Vision / Machine Learning
-				<br> <a href="{{ '/courses#class1112' | prepend: site.baseurl }}">Curriculum</a></p>
+				<br> <a href="{{ '/courses#class1112' | prepend: site.baseurl }}"><h3>Curriculum</h3></a></p>
 				</div>
 			</div>			
 		</div>
 	</div>
 </div>
+
+
+
+
+<!--   <img src="{{ '/assets/img/pair_programming.png' | prepend: site.baseurl }}" class="card-img-top" alt="...">
+	    <div class="card-body">
+	      <h5 class="card-title">Pair Programming</h5>
+	      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+	      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+	    </div>
+	  </div>
+	  <div class="card">
+	    <img src="{{ '/assets/img/certificate.png' | prepend: site.baseurl }}" class="card-img-top" alt="...">
+	    <div class="card-body">
+	      <h5 class="card-title">Course Certificate</h5>
+	      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+	      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+	    </div>
+	  </div>
+	  <div class="card">
+	    <img src="{{ '/assets/img/social_media.jpg' | prepend: site.baseurl }}" class="card-img-top" alt="...">
+	    <div class="card-body">
+	      <h5 class="card-title">Smarter Kids Community</h5>
+	      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+	      <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+	    </div>
+	  </div>
+	</div>
+</div> -->
+
 <!--
 	<div id="describe-text">
 		<h1 style="font-size: 48px">What Does TurtleCode Offer?</h1>

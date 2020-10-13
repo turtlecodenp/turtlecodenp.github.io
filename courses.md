@@ -23,8 +23,8 @@ layout: page
 				<!-- Title -->
 				<h4 class="card-title"><strong>CS Fundamentals, Game Design and Web</strong></h4>
 				<!-- Text -->
-				<p class="card-text"><a href="{{ '/assets/docs/course_structure_6_8.pdf' | prepend: site.baseurl }}">Course Curriculum</a>
-				<br> Course Price - <strong>NPR. 12000/-</strong> for total 16 sessions
+				<p class="card-text"><a href="{{ '/assets/docs/course_structure_6_8.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
+				<br> Course Price - <strike>NPR. 12000/-</strike> <strong><h4>NPR.8400/-</h4></strong> for total 16 sessions
 				<br> Weekly 2 session shall be conducted as per your convenience</p>
 				</div>
 			</div>			
@@ -51,8 +51,8 @@ layout: page
 				<!-- Title -->
 				<h4 class="card-title"><strong>CS Fundamentals and Complete Web Development</strong></h4>
 				<!-- Text -->
-				<p class="card-text"><a href="{{ '/assets/docs/course_structure_9_10.pdf' | prepend: site.baseurl }}">Course Curriculum</a>
-				<br> Course Price - <strong>NPR. 20000/-</strong> for total 20 sessions
+				<p class="card-text"><a href="{{ '/assets/docs/course_structure_9_10.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
+				<br> Course Price - <strike>NPR.20000</strike> <strong><h4>NPR. 14000/-</h4></strong> for total 20 sessions
 				<br> Weekly 2 session shall be conducted as per your convenience</p>
 				</div>
 			</div>			
@@ -78,8 +78,8 @@ layout: page
 				<!-- Title -->
 				<h4 class="card-title"><strong>CS Fundamentals and Algorithms in C++</strong></h4>
 				<!-- Text -->
-				<p class="card-text"><a href="{{ '/assets/docs/course_structure_11_12_cpp.pdf' | prepend: site.baseurl }}">Course Curriculum</a>
-				<br> Course Price - <strong>NPR. 8000/-</strong> for total 10 sessions
+				<p class="card-text"><a href="{{ '/assets/docs/course_structure_11_12_cpp.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
+				<br> Course Price - <strike>NPR.8000/-</strike> <strong><h4>NPR. 5600/-</h4></strong> for total 10 sessions
 				<br> Weekly 2 session shall be conducted as per your convenience</p>
 				</div>
 			</div>			
@@ -88,10 +88,10 @@ layout: page
 			<div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;"> 
 				<div class="card-body">
 				<!-- Title -->
-				<h4 class="card-title"><strong>Creative Mind to Build Dope Tech</strong></h4>
+				<h4 class="card-title"><strong>Complete Web Development Upskilling</strong></h4>
 				<!-- Text -->
-				<p class="card-text"><a href="{{ '/assets/docs/course_structure_11_12_web_dev.pdf' | prepend: site.baseurl }}">Course Curriculum</a>
-				<br> Course Price - <strong>NPR. 14000/-</strong> for total 16 sessions
+				<p class="card-text"><a href="{{ '/assets/docs/course_structure_11_12_web_dev.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
+				<br> Course Price - <strike>NPR.14000/-</strike> <strong><h4>NPR. 9800/-</h4></strong> for total 16 sessions
 				<br> Weekly 2 session shall be conducted as per your convenience</p>
 				</div>
 			</div>			
