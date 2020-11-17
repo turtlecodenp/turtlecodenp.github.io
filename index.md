@@ -7,20 +7,9 @@ sitemap:
 
 <div class="container">
 	<div class="row">
-		<div class="col-md-12 col-sm-12 col-xs-12 alert alert-primary" role="alert">
-			<strong>
-				<h3 class="alert-heading text-center">---Dashain Web Development Package---</h3>
-			</strong>
-			<h4> Course Price <b>NPR. 4500</b> </h4>
-			<p> We are very excited to announce Special Web Development Package for students that they can cover this holiday season of Dashain & Tihar.</p>
-			<a href="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?usp=sf_link" target="_blank"><button type="button" class="btn btn-outline-primary">REGISTER NOW</button></a>
-			<a href="{{ '/assets/docs/dashain_web_dev.pdf' | prepend: site.baseurl }}" class="alert-link"><button type="button" class="btn btn-outline-primary">CHECK OUT CURRICULUM</button></a>
-		</div>
-	</div>
-	<div class="row">
 		<div class="col-md-12 col-sm-12 col-xs-12 alert alert-success text-center" role="alert">
 			<p>
-				Parents, sign up now to get discounted access to our various coding courses. 
+				<strong>Parents, we are giving Free Trial Session, book one for yourself here -> </strong>
 					<a href="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?usp=sf_link" target="_blank" style="color:#000000;font-size: 20px"><b>REGISTER HERE</b></a>
 			</p>
 		</div>

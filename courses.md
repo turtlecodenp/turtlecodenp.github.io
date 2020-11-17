@@ -44,8 +44,8 @@ layout: page
 
 <div class="container">
 	<div class="row">
-		<div class="col-sm-4 col-md-4 d-flex align-items-stretch"></div>
-		<div class="col-sm-4 col-md-4 d-flex align-items-stretch">
+		<div class="col-sm-3 col-md-3 d-flex align-items-stretch"></div>
+		<div class="col-sm-3 col-md-3 d-flex align-items-stretch">
 			<div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;">  
 				<div class="card-body">
 				<!-- Title -->
@@ -55,10 +55,21 @@ layout: page
 				<br> Course Price - <strike>NPR.20000</strike> <strong><h4>NPR. 14000/-</h4></strong> for total 20 sessions
 				<br> Weekly 2 session shall be conducted as per your convenience</p>
 				</div>
-			</div>			
+			</div>
 		</div>
-		<div class="col-sm-4 col-md-4 d-flex align-items-stretch"></div>
-	</div>
+		<div class="col-sm-3 col-md-3 d-flex align-items-stretch">
+			<div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;">  
+				<div class="card-body">
+				<!-- Title -->
+				<h4 class="card-title"><strong>MIT App Inventor - Android Application Development</strong></h4>
+				<!-- Text -->
+				<p class="card-text"><a href="{{ '/assets/docs/course_structure_9_12_mit_app.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
+				<br> Course Price - <strike>NPR.14000</strike> <strong><h4>NPR. 10000/-</h4></strong> for total 10 sessions
+				<br> Weekly 2 session shall be conducted as per your convenience</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-sm-3 col-md-3 d-flex align-items-stretch"></div>
 </div>
 
 <div class="container">
@@ -71,8 +82,19 @@ layout: page
 
 <div class="container">
 	<div class="row">
-		<div class="col-sm-3 col-md-3 d-flex align-items-stretch"></div>
-		<div class="col-sm-3 col-md-3 d-flex align-items-stretch">
+		<div class="col-sm-4 col-md-4 d-flex align-items-stretch">
+			<div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;">  
+				<div class="card-body">
+				<!-- Title -->
+				<h4 class="card-title"><strong>MIT App Inventor - Android Application Development</strong></h4>
+				<!-- Text -->
+				<p class="card-text"><a href="{{ '/assets/docs/course_structure_9_12_mit_app.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
+				<br> Course Price - <strike>NPR.14000</strike> <strong><h4>NPR. 10000/-</h4></strong> for total 10 sessions
+				<br> Weekly 2 session shall be conducted as per your convenience</p>
+				</div>
+			</div>		
+		</div>
+		<div class="col-sm-4 col-md-4 d-flex align-items-stretch">
 			<div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;"> 
 				<div class="card-body">
 				<!-- Title -->
@@ -84,7 +106,7 @@ layout: page
 				</div>
 			</div>			
 		</div>
-		<div class="col-sm-3 col-md-3 d-flex align-items-stretch">
+		<div class="col-sm-4 col-md-4 d-flex align-items-stretch">
 			<div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;"> 
 				<div class="card-body">
 				<!-- Title -->
@@ -96,7 +118,6 @@ layout: page
 				</div>
 			</div>			
 		</div>		
-		<div class="col-sm-3 col-md-3 d-flex align-items-stretch"></div>
 	</div>
 </div>
 
