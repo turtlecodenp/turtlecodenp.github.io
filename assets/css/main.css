@@ -505,7 +505,36 @@
     grid-template-rows: 1fr;
     grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: 50px;*/
+  .faqHeader {
+      font-size: 27px;
+      margin: 20px;
   }
+
+  .panel-heading [data-toggle="collapse"]:after {
+      font-family: 'Glyphicons Halflings';
+      content: "e072"; /* "play" icon */
+      float: right;
+      color: #F58723;
+      font-size: 18px;
+      line-height: 22px;
+      /* rotate "play" icon from > (right arrow) to down arrow */
+      -webkit-transform: rotate(-90deg);
+      -moz-transform: rotate(-90deg);
+      -ms-transform: rotate(-90deg);
+      -o-transform: rotate(-90deg);
+      transform: rotate(-90deg);
+  }
+
+  .panel-heading [data-toggle="collapse"].collapsed:after {
+      /* rotate "play" icon from > (right arrow) to ^ (up arrow) */
+      -webkit-transform: rotate(90deg);
+      -moz-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+      -o-transform: rotate(90deg);
+      transform: rotate(90deg);
+      color: #454444;
+  }
+
   .cell{
     box-shadow: 5px 5px 14px -1px #a3a3a3;
     background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
