@@ -512,7 +512,6 @@
 
   .panel-heading [data-toggle="collapse"]:after {
       font-family: 'Glyphicons Halflings';
-      content: "e072"; /* "play" icon */
       float: right;
       color: #F58723;
       font-size: 18px;
