@@ -101,7 +101,7 @@ layout: page
 				<h4 class="card-title"><strong>CS Fundamentals and Algorithms in C++</strong></h4>
 				<!-- Text -->
 				<p class="card-text"><a href="{{ '/assets/docs/course_structure_11_12_cpp.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
-				<br> Course Price - <strike>NPR.8000/-</strike> <strong><h4>NPR. 5600/-</h4></strong> for total 10 sessions
+				<br> Course Price - <strike> NPR.8000/- </strike> <strong><h4>NPR. 5600/-</h4></strong> for total 10 sessions
 				<br> Weekly 2 session shall be conducted as per your convenience</p>
 				</div>
 			</div>			
@@ -117,10 +117,22 @@ layout: page
 				<br> Weekly 2 session shall be conducted as per your convenience</p>
 				</div>
 			</div>			
+		</div>
+		<div class="col-sm-4 col-md-4 d-flex align-items-stretch">
+			<div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;"> 
+				<div class="card-body">
+				<!-- Title -->
+				<h4 class="card-title"><strong>Python Programming: Fundamentals and Game Design</strong></h4>
+				<!-- Text -->
+				<p class="card-text"><a href="{{ '/assets/docs/course_structure_11_12_python.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
+				<br> Course Price - <strike>NPR.13500/-</strike> <strong><h4>NPR. 9750/-</h4></strong> for total 15 sessions
+				<br> Weekly 2 session shall be conducted as per your convenience</p>
+				</div>
+			</div>			
 		</div>		
 	</div>
 </div>
-
+<br>
 <div class="container">
 	<div class="row">
 		<div class="col-md-12 col-sm-12 col-xs-12 text-center">
