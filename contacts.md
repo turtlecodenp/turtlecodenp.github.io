@@ -6,8 +6,7 @@ title: Contact Us
 	<div class="row">
 		<div class="col-md-12 col-sm-12 col-xs-12 text-center">
 			Please fill up this form and we will reach to you soon.
-		</div>
-        <br>
+		</div><br>
         <div class="col-md-12 col-sm-12 col-xs-12 text-center">
 			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?embedded=true" width="320" height="200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 		</div>
