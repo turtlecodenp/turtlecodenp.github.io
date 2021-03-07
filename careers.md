@@ -15,19 +15,19 @@ title: Career
             <div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;">
 				<!-- Card content -->
 				<div class="card-body">
-				<!-- Title -->
-				<h4 class="card-title"><strong>Graphics Designer and Content Creator</strong></h4>
-				<!-- Text -->
-				<p class="card-text"><a href="https://docs.google.com/forms/d/e/1FAIpQLSesAyuZYo3Nl5FZ8m7EzzIy93EhCNCe0n744YIllshJdcoyIg/viewform?usp=sf_link"><h2>Apply For the Position</h2></a>
-                <br>
-                Skills Required
-                <br>
-                <ol>
-                    <li> Relevant Skills in Designing Posters, Social Media Posts </li>
-                    <li> Excellent Hands-on experience in using Designing Tools (Adobe PS, Figma, Adobe Illustrator) </li>
-                    <li> Good Skills in Content Ideation </li>
-                    <li> Previous Experience in Designing </li>
-                </ol>
+					<!-- Title -->
+					<h4 class="card-title"><strong>Graphics Designer and Content Creator</strong></h4>
+					<!-- Text -->
+					<p class="card-text"><a href="https://docs.google.com/forms/d/e/1FAIpQLSesAyuZYo3Nl5FZ8m7EzzIy93EhCNCe0n744YIllshJdcoyIg/viewform?usp=sf_link"><h2>Apply For the Position</h2></a>
+					<br>
+					Skills Required
+					<br>
+					<ul>
+						<li> Relevant Skills in Designing Posters, Social Media Posts </li>
+						<li> Excellent Hands-on experience in using Designing Tools (Adobe PS, Figma, Adobe Illustrator) </li>
+						<li> Good Skills in Content Ideation </li>
+						<li> Previous Experience in Designing </li>
+					</ul>
 				</div>
 			</div>			
 		</div>
@@ -35,18 +35,18 @@ title: Career
 			<div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;">
 				<!-- Card content -->
 				<div class="card-body">
-				<!-- Title -->
-				<h4 class="card-title"><strong>Programming Tutor</strong></h4>
-				<!-- Text -->
-				<p class="card-text"><a href="https://docs.google.com/forms/d/e/1FAIpQLSesAyuZYo3Nl5FZ8m7EzzIy93EhCNCe0n744YIllshJdcoyIg/viewform?usp=sf_link"><h2>Apply For the Position</h2></a>
-                <br>
-                Skills Required
-                <br>
-                <ol>
-                    <li> Strong Conceptual understanding of Programming </li>
-                    <li> Proficient in One of Programming Languages (Java / C++ / Python / HTML & CSS & JS)
-                    <li> Previous Experience (not necessarily professional) in Teaching Programming </li>
-                </ol>
+					<!-- Title -->
+					<h4 class="card-title"><strong>Programming Tutor</strong></h4>
+					<!-- Text -->
+					<p class="card-text"><a href="https://docs.google.com/forms/d/e/1FAIpQLSesAyuZYo3Nl5FZ8m7EzzIy93EhCNCe0n744YIllshJdcoyIg/viewform?usp=sf_link"><h2>Apply For the Position</h2></a>
+					<br>
+					Skills Required
+					<br>
+					<ul>
+						<li> Strong Conceptual understanding of Programming </li>
+						<li> Proficient in One of Programming Languages (Java / C++ / Python / HTML & CSS & JS)</li>
+						<li> Previous Experience (not necessarily professional) in Teaching Programming </li>
+					</ul>
 				</div>
 			</div>			
 		</div>
