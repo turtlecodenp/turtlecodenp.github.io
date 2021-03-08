@@ -27,12 +27,12 @@ title: Career
 				<br>
 				<strong>Skills Required</strong>
 				<br>
-				<ul>
+				<div><ul>
 					<li> Relevant Skills in Designing Posters, Social Media Posts </li>
 					<li> Excellent Hands-on experience in using Designing Tools (Adobe PS, Figma, Adobe Illustrator) </li>
 					<li> Good Skills in Content Ideation </li>
 					<li> Previous Experience in Designing </li>
-				</ul>
+				</ul></div>
 				</div>
 			</div>			
 		</div>
@@ -56,11 +56,11 @@ title: Career
 				<br>
 				<strong>Skills Required</strong>
 				<br>
-				<ul>
+				<div><ul>
 					<li> Strong Conceptual understanding of Programming </li>
 					<li> Proficient in One of Programming Languages (Java / C++ / Python / HTML & CSS & JS)</li>
 					<li> Previous Experience (not necessarily professional) in Teaching Programming </li>
-				</ul>
+				</ul></div>
 				</div>
 			</div>			
 		</div>
