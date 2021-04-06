@@ -24,7 +24,7 @@ layout: page
 				<h4 class="card-title"><strong>CS Fundamentals, Game Design and Web</strong></h4>
 				<!-- Text -->
 				<p class="card-text"><a href="{{ '/assets/docs/course_structure_6_8.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
-				<br> Course Price - <strike>NPR. 12000/-</strike> <strong><h4>NPR.8400/-</h4></strong> for total 16 sessions
+				<br> Course Price - <strong><h4>NPR.12000/-</h4></strong> for total 16 sessions
 				<br> Weekly 2 session shall be conducted as per your convenience</p>
 				</div>
 			</div>			
@@ -52,7 +52,7 @@ layout: page
 				<h4 class="card-title"><strong>CS Fundamentals and Complete Web Development</strong></h4>
 				<!-- Text -->
 				<p class="card-text"><a href="{{ '/assets/docs/course_structure_9_10.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
-				<br> Course Price - <strike>NPR.20000</strike> <strong><h4>NPR. 14000/-</h4></strong> for total 20 sessions
+				<br> Course Price - <strong><h4>NPR. 20000/-</h4></strong> for total 20 sessions
 				<br> Weekly 2 session shall be conducted as per your convenience</p>
 				</div>
 			</div>
@@ -64,7 +64,7 @@ layout: page
 				<h4 class="card-title"><strong>MIT App Inventor - Android Application Development</strong></h4>
 				<!-- Text -->
 				<p class="card-text"><a href="{{ '/assets/docs/course_structure_9_12_mit_app.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
-				<br> Course Price - <strike>NPR.14000</strike> <strong><h4>NPR. 10000/-</h4></strong> for total 10 sessions
+				<br> Course Price - <strong><h4>NPR. 14000/-</h4></strong> for total 10 sessions
 				<br> Weekly 2 session shall be conducted as per your convenience</p>
 				</div>
 			</div>
@@ -89,7 +89,7 @@ layout: page
 				<h4 class="card-title"><strong>MIT App Inventor - Android Application Development</strong></h4>
 				<!-- Text -->
 				<p class="card-text"><a href="{{ '/assets/docs/course_structure_9_12_mit_app.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
-				<br> Course Price - <strike>NPR.14000</strike> <strong><h4>NPR. 10000/-</h4></strong> for total 10 sessions
+				<br> Course Price - <strong><h4>NPR. 14000/-</h4></strong> for total 10 sessions
 				<br> Weekly 2 session shall be conducted as per your convenience</p>
 				</div>
 			</div>		
@@ -101,7 +101,7 @@ layout: page
 				<h4 class="card-title"><strong>CS Fundamentals and Algorithms in C++</strong></h4>
 				<!-- Text -->
 				<p class="card-text"><a href="{{ '/assets/docs/course_structure_11_12_cpp.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
-				<br> Course Price - <strike> NPR.8000/- </strike> <strong><h4>NPR. 5600/-</h4></strong> for total 10 sessions
+				<br> Course Price - <strong><h4>NPR. 8000/-</h4></strong> for total 10 sessions
 				<br> Weekly 2 session shall be conducted as per your convenience</p>
 				</div>
 			</div>			
@@ -113,7 +113,7 @@ layout: page
 				<h4 class="card-title"><strong>Complete Web Development Upskilling</strong></h4>
 				<!-- Text -->
 				<p class="card-text"><a href="{{ '/assets/docs/course_structure_11_12_web_dev.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
-				<br> Course Price - <strike>NPR.14000/-</strike> <strong><h4>NPR. 9800/-</h4></strong> for total 16 sessions
+				<br> Course Price - <strong><h4>NPR. 14000/-</h4></strong> for total 16 sessions
 				<br> Weekly 2 session shall be conducted as per your convenience</p>
 				</div>
 			</div>			
@@ -125,7 +125,7 @@ layout: page
 				<h4 class="card-title"><strong>Python Programming: Fundamentals and Game Design</strong></h4>
 				<!-- Text -->
 				<p class="card-text"><a href="{{ '/assets/docs/course_structure_11_12_python.pdf' | prepend: site.baseurl }}"><h2>Course Curriculum</h2></a>
-				<br> Course Price - <strike>NPR.13500/-</strike> <strong><h4>NPR. 9750/-</h4></strong> for total 15 sessions
+				<br> Course Price - <strong><h4>NPR. 13500/-</h4></strong> for total 15 sessions
 				<br> Weekly 2 session shall be conducted as per your convenience</p>
 				</div>
 			</div>			
