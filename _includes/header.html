@@ -7,6 +7,15 @@
 			</div>
 		</div>
 	</div>
+</div>
+{% comment %} <div class="container">
+	<div class="row">
+		<div class="col-md-12 col-sm-12 col-xs-12">
+			<div class="navigation">
+			<a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>			
+			</div>
+		</div>
+	</div>
 	<div class="row">
 		<div class="col-md-6 col-sm-6">
 			<div class="navigation">
@@ -17,15 +26,15 @@
 			<li class="menu__entry"><a href="{{ '/courses' | prepend: site.baseurl }}">Courses</a></li>
 			<li class="menu__entry"><a href="{{ '/faqs' | prepend: site.baseurl }}">FAQs</a></li>
 			<li class="menu__entry"><a href="{{ '/contacts' | prepend: site.baseurl }}">Contact Us</a></li>
-			<li class="menu__entry"><a href="{{ '/careers' | prepend: site.baseurl }}">Careers</a></li>
-			<!-- <li class="menu__entry"><a href="{{ '/service' | prepend: site.baseurl }}">Service</a></li> -->
+			<li class="menu__entry"><a href="{{ '/careers' | prepend: site.baseurl }}">Careers</a></li> 
+			<li class="menu__entry"><a href="{{ '/service' | prepend: site.baseurl }}">Service</a></li> 
 			</ul>
 			</div>
 		</div>
 		<div class="col-md-6 col-sm-6">
-		<ul class="social-links">
-<!-- 			<a href="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?usp=sf_link" target="_blank" class="request-button">REQUEST A CALLBACK</a> -->
-		<a href="https://api.whatsapp.com/send?phone=9779810106632&text=Hi, I wanna learn Coding" class="social-links__entry request-button" target="_blank">Book On WhatsApp</a>
+		<ul class="social-links"> 
+ 			<a href="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?usp=sf_link" target="_blank" class="request-button">REQUEST A CALLBACK</a> -->
+		 <a href="https://api.whatsapp.com/send?phone=9779810106632&text=Hi, I wanna learn Coding" class="social-links__entry request-button" target="_blank">Book On WhatsApp</a>
 		<!-- <i class="fa fa-whatsapp"></i> -->
 		{% if site.author.email %}
 		<a href="mailto:{{ site.author.email }}" class="social-links__entry" target="_blank">
@@ -54,5 +63,39 @@
 		{% endif %}
 		</ul>
 	</div>
-</div>
+</div> {% endcomment %}
+		<nav class="navbar navbar-expand-lg navbar-light" style="background-color: #a2e0d4;">
+			{% comment %} <a class="navbar-brand" href="{{ '' | prepend: site.baseurl }}">
+
+				<img src="{{ '/assets/img/logo.png' | prepend: site.baseurl }}">
+			</a> {% endcomment %}
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav mr-auto">
+				<li class="nav-item active">
+					<a class="nav-link" href="{{ '/' | prepend: site.baseurl }}"><h3>Home</h3></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="{{ '/courses' | prepend: site.baseurl }}"><h3>Courses</h3></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="{{ '/faqs' | prepend: site.baseurl }}"><h3>FAQs</h3></a>
+				</li>				
+				<li class="nav-item">
+					<a class="nav-link" href="{{ '/about' | prepend: site.baseurl }}"><h3>About Us</h3></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="{{ '/contacts' | prepend: site.baseurl }}"><h3>Contact</h3></a>
+				</li>
+				</ul>
+				 <form class="form-inline">
+					<button class="btn btn-outline-success" type="button">
+					<a href="https://api.whatsapp.com/send?phone=9779810106632&text=Hi, I wanna learn Coding">Book On WhatsApp</a>
+					</button>
+				</form>
+			</div>
+		</nav>
 </header>
