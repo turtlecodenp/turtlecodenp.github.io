@@ -11,6 +11,22 @@
 
 {% include meta_tags/base.html %}
 {% include externals/styling.html %}
+
+{% comment %} onesignal subscription  {% endcomment %}
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "7c6a222c-3807-495e-a176-f78361943cd1",
+      notifyButton: {
+        enable: true,
+      },
+    });
+  });
+</script>
+
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-174989168-1"></script>
 <script>

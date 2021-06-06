@@ -7,11 +7,22 @@ sitemap:
 
 <div class="container">
 	<div class="row">
-		<div class="col-md-12 col-sm-12 col-xs-12 alert alert-success text-center" role="alert">
-			<p>
-				<strong>Parents, we are giving Free Trial Session, book one for yourself here -> </strong>
-					<a href="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?usp=sf_link" target="_blank" style="color:#000000;font-size: 20px"><b>REGISTER HERE</b></a>
-			</p>
+		<div class="card text-white bg-primary mb-3 col-md-12 col-sm-12 col-xs-12 text-center" style="max-width:auto;">
+		<div class="card-banner">
+			<div class="card-body">
+				Nepal's First Online Programming Platform for Kids from Class 4 - 12
+			</div>
+		</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="card text-white bg-success mb-3 col-md-12 col-sm-12 col-xs-12 text-center" style="max-width:auto;">
+		<div class="card-banner">
+		<div class="card-body">
+			Free Trial Session, book one for yourself here -> 
+			<a href="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?usp=sf_link" target="_blank" style="color:#ffffff">REGISTER HERE</a>
+		</div>
+		</div>
 		</div>
 	</div>
 </div>
