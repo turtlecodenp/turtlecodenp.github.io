@@ -16,11 +16,14 @@ sitemap:
 		</div>
 	</div>
 	<div class="row">
+		<div class="card">
+		<img class="card-img-bottom" src="{{ '/assets/img/coverpic_mod.png' | prepend: site.baseurl }}" alt="Card image cap">
 		<div class="card text-white bg-success mb-3 col-md-12 col-sm-12 col-xs-12 text-center" style="max-width:auto;">
 		<div class="card-banner">
 		<div class="card-body">
 			Free Trial Session, book one for yourself here -> 
 			<a href="https://docs.google.com/forms/d/e/1FAIpQLScVZSDbLuQWKD1jg2sHwOGTPT8k2Ljxa1hdMSgX1GkLPec4LQ/viewform?usp=sf_link" target="_blank" style="color:#ffffff">REGISTER HERE</a>
+		</div>
 		</div>
 		</div>
 		</div>
@@ -33,11 +36,11 @@ sitemap:
 			</div>
 		</div> -->
 
-<div class="container">
+<!-- <div class="container">
 	<div class="row">
 		<img src="{{ '/assets/img/coverpic_mod.png' | prepend: site.baseurl }}" id="logo-name" alt="TurtleCode Interactive Progamming Coding Classes for Kids and Students Nepal">
 	</div>
-</div>
+</div> -->
 
 
 <!-- coding important -->

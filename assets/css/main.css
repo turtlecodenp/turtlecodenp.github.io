@@ -682,6 +682,10 @@ strong {
     top: 1px;
 }
 
+.nav-item:hover {
+    background-color: #ffffff;
+}
+
 
 /*banner*/
 
