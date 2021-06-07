@@ -262,6 +262,21 @@ strong {
     .card-banner {
         font-size: 32px;
     }
+    .faqs-section {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    .panel-body {
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-top: 15px;
+        margin-left: 15px;
+        font-size: 130%;
+    }
+    .aboutus-detail {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
 }
 
 @media (max-width: 500px) {

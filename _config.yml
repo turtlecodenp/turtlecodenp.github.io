@@ -1,8 +1,6 @@
 # Site settings
 title: TurtleCode
-description: >
-  Interactive coding platform for your child
-
+description: Nepal Interactive Fun Coding Platform for Child Kids Students Class 4 - 12
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://turtlecodenp.github.io" # the base hostname & protocol for your site
 

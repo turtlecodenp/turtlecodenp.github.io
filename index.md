@@ -35,7 +35,7 @@ sitemap:
 
 <div class="container">
 	<div class="row">
-		<img src="{{ '/assets/img/coverpic_mod.png' | prepend: site.baseurl }}" id="logo-name">
+		<img src="{{ '/assets/img/coverpic_mod.png' | prepend: site.baseurl }}" id="logo-name" alt="TurtleCode Interactive Progamming Coding Classes for Kids and Students Nepal">
 	</div>
 </div>
 
@@ -55,7 +55,7 @@ sitemap:
 				<!-- Card image -->
 			<div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;">
 				<div class="view overlay">
-				<img class="card-img-top" src="{{ '/assets/img/problem_skills.png' | prepend: site.baseurl }}" alt="Card image cap" style="max-width: 80%; margin-top: 20px; margin-left: auto; margin-right: auto;">
+				<img class="card-img-top" src="{{ '/assets/img/problem_skills.png' | prepend: site.baseurl }}" alt="TurtleCode Interactive Progamming Coding Classes for Kids and Students Nepal" style="max-width: 80%; margin-top: 20px; margin-left: auto; margin-right: auto;">
 				<a href="#!">
 				  <div class="mask rgba-white-slight"></div>
 				</a>
@@ -73,7 +73,7 @@ sitemap:
 			<div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;">  
 				<!-- Card image -->
 				<div class="view overlay">
-				<img class="card-img-top" src="{{ '/assets/img/kids_career.png' | prepend: site.baseurl }}" alt="Card image cap" style="max-width: 80%; margin-top: 20px; margin-left: auto; margin-right: auto;">
+				<img class="card-img-top" src="{{ '/assets/img/kids_career.png' | prepend: site.baseurl }}" alt="TurtleCode Interactive Progamming Coding Classes for Kids and Students Nepal" style="max-width: 80%; margin-top: 20px; margin-left: auto; margin-right: auto;">
 				<a href="#!">
 				  <div class="mask rgba-white-slight"></div>
 				</a>
@@ -91,7 +91,7 @@ sitemap:
 			<div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;"> 
 				<!-- Card image -->
 				<div class="view overlay">
-				<img class="card-img-top" src="{{ '/assets/img/kids_idea.png' | prepend: site.baseurl }}" alt="Card image cap" style="max-width: 80%; margin-top: 20px; margin-left: auto; margin-right: auto;">
+				<img class="card-img-top" src="{{ '/assets/img/kids_idea.png' | prepend: site.baseurl }}" alt="TurtleCode Interactive Progamming Coding Classes for Kids and Students Nepal" style="max-width: 80%; margin-top: 20px; margin-left: auto; margin-right: auto;">
 				<a href="#!">
 				  <div class="mask rgba-white-slight"></div>
 				</a>
@@ -124,7 +124,7 @@ sitemap:
 		<div class="card">
 			<div class="row no-gutters">
 				<div class="col-md-4 mb-3">
-					<img src="{{ '/assets/img/pair_programming.png' | prepend: site.baseurl }}" class="card-img-top" alt="...">
+					<img src="{{ '/assets/img/pair_programming.png' | prepend: site.baseurl }}" class="card-img-top" alt="TurtleCode Interactive Progamming Coding Classes for Kids and Students Nepal">
 				</div>
 				<div class="col-md-8">
 					<div class="card-body">
@@ -137,7 +137,7 @@ sitemap:
 		<div class="card">
 			<div class="row no-gutters">
 				<div class="col-md-4 mb-3">
-					<img src="{{ '/assets/img/certificate.png' | prepend: site.baseurl }}" class="card-img-top" alt="...">	  			
+					<img src="{{ '/assets/img/certificate.png' | prepend: site.baseurl }}" class="card-img-top" alt="TurtleCode Interactive Progamming Coding Classes for Kids and Students Nepal">	  			
 				</div>
 				<div class="col-md-8">
 					<div class="card-body">
@@ -150,7 +150,7 @@ sitemap:
 		<div class="card">
 			<div class="row no-gutters">
 				<div class="col-md-4 mb-3">
-					<img src="{{ '/assets/img/social_media.jpg' | prepend: site.baseurl }}" class="card-img-top" alt="...">	  			
+					<img src="{{ '/assets/img/social_media.jpg' | prepend: site.baseurl }}" class="card-img-top" alt="TurtleCode Interactive Progamming Coding Classes for Kids and Students Nepal">	  			
 				</div>
 				<div class="col-md-8">
 					<div class="card-body">
@@ -179,7 +179,7 @@ sitemap:
 				<!-- Card image -->
 			<div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;"> 
 				<div class="view overlay">
-				<img class="card-img-top" src="{{ '/assets/img/class68_profile.jpeg' | prepend: site.baseurl }}" alt="Card image cap" style="max-width: 80%; margin-top: 20px; margin-left: auto; margin-right: auto;">
+				<img class="card-img-top" src="{{ '/assets/img/class68_profile.jpeg' | prepend: site.baseurl }}" alt="TurtleCode Interactive Progamming Coding Classes for Kids and Students Nepal" style="max-width: 80%; margin-top: 20px; margin-left: auto; margin-right: auto;">
 				<a href="#!">
 				  <div class="mask rgba-white-slight"></div>
 				</a>
@@ -198,7 +198,7 @@ sitemap:
 			<div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;">  
 				<!-- Card image -->
 				<div class="view overlay">
-				<img class="card-img-top" src="{{ '/assets/img/class910_profile.jpg' | prepend: site.baseurl }}" alt="Card image cap" style="max-width: 80%; margin-top: 20px; margin-left: auto; margin-right: auto;">
+				<img class="card-img-top" src="{{ '/assets/img/class910_profile.jpg' | prepend: site.baseurl }}" alt="TurtleCode Interactive Progamming Coding Classes for Kids and Students Nepal" style="max-width: 80%; margin-top: 20px; margin-left: auto; margin-right: auto;">
 				<a href="#!">
 				  <div class="mask rgba-white-slight"></div>
 				</a>
@@ -217,7 +217,7 @@ sitemap:
 			<div class="card text-center" style="box-shadow: 5px 5px 14px -1px #a3a3a3; background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%); background-color:#f9f9f9; border-radius:6px; border:1px solid #dcdcdc;"> 
 				<!-- Card image -->
 				<div class="view overlay">
-				<img class="card-img-top" src="{{ '/assets/img/class1112_profile.jpg' | prepend: site.baseurl }}" alt="Card image cap" style="max-width: 80%; margin-top: 20px; margin-left: auto; margin-right: auto;">
+				<img class="card-img-top" src="{{ '/assets/img/class1112_profile.jpg' | prepend: site.baseurl }}" alt="TurtleCode Interactive Progamming Coding Classes for Kids and Students Nepal" style="max-width: 80%; margin-top: 20px; margin-left: auto; margin-right: auto;">
 				<a href="#!">
 				  <div class="mask rgba-white-slight"></div>
 				</a>
